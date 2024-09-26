@@ -82,10 +82,10 @@ Here is my [CV](./CV-SZ.pdf)
 
 ### Project 6:  _Time series_ 📉
 <p align="justify"> 
-<strong>Description</strong> : As members of the Netflix team of data scientists, we wanted to develop a new movie recommendation engine for our clients. Recommendation engines are widely used by market leaders to enhance user engagement and retention. By analyzing data from similar users, these systems provide personalized recommendations that align with users' preferences. When users receive content they enjoy, they tend to spend more time on the platform, which directly helps reduce customer churn. For instance, Netflix’s recommendation algorithms are a prime example, generating approximately $1 billion in value annually from customer retention efforts alone (2019).
+<strong>Description</strong> : The objective of this project is to use the Box-Jenkins methodology to forecast airport traffic time series. This involves analyzing historical data to predict future air traffic trends.
 </p>
 
-<strong>Technologies</strong> : [R],[RShiny]
+<strong>Technologies</strong> : [R]
 
 <strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
 
