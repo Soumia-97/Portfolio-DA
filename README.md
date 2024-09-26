@@ -49,7 +49,7 @@ Here is my [CV](./CV-SZ.pdf)
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
 - **Dépôt GitHub** : [Lien vers le dépôt du projet]
 
----
+
 
 ### Project 4: ** Study case : The real estate french market **
 - **Description** : Brève explication de ce projet et des technologies utilisées.
