@@ -84,5 +84,5 @@ Here is my [CV](./CV-SZ.pdf)
 
 ## 📫 Contact
 
-- [Mon LinkedIn](//www.linkedin.com/in/soumia-zarkan-a0503b178)
+- [My LinkedIn](//www.linkedin.com/in/soumia-zarkan-a0503b178)
 
