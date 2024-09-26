@@ -56,8 +56,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [R],[RShiny]
 
-<strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
-
+<strong>Demonstration</strong>  : [Dashboard](//public.tableau.com/app/profile/soumia.zarkan/viz/real_estate_project_zarkan_knouzi_dafrane/Story1)
 <strong>Script</strong> : [Lien vers le dépôt du projet]
 
 
