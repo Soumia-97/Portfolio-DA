@@ -1,9 +1,16 @@
-# Portfolio-DA
+# Soumia Zarkan Portfolio - 
 
 # Mes Projets
 
 Welcome on my portfolio ! Here you'll find a collection of my most recent work on data analytics.
 
+**Hello, I'm Soumia!** I recently graduated with a Master's degree in Artificial Intelligence and Business Analytics. I'm passionate about data science and emerging technologies, and I’m currently seeking my first professional opportunity as a data analyst. My academic journey has given me a strong foundation in data analysis, predictive modeling, and AI, which I have applied through several significant projects showcased in this portfolio.
+
+Throughout my studies, I developed a keen ability to work with complex data, identify trends, and solve strategic problems using AI. In addition to my technical skills, I have gained a solid understanding of business challenges, allowing me to bridge the gap between data science and concrete business objectives.
+
+---
+
+This version keeps your tone professional and highlights your key strengths in AI and business analytics.
 ## 📚 Projects
 
 ### Project 1: ** Time Seriess **
