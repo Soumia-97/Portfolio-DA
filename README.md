@@ -11,9 +11,23 @@ Throughout my studies, I developed a keen ability to work with complex data, ide
 Here is my [CV](./CV-SZ.pdf)
 
 
+# Table of Contents
+
+- About
+
+- Portfolio Projects
+  
+  - Netflix recommendation system 
+  - Gamers recommendation system
+  - Study case : The real estate french market
+  - Chatbot for Skyscanner
+  - Customers Churn analysis for Orange
+  - Time series 
+
+
 ## 📚 Projects
 
-### Project 1: ** Time Seriess **
+### Project 1: ** Netflix recommendation system **
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Python], [JavaScript], [HTML/CSS] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -21,7 +35,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 ---
 
-### Projet 2: **Nom du projet**
+### Project 2: ** Gamers recommendation system **
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [React], [Node.js], [MongoDB] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -29,7 +43,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 ---
 
-### Projet 3: **Nom du projet**
+### Project 3: ** Study case : The real estate french market **
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
