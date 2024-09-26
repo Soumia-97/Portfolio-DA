@@ -71,14 +71,12 @@ Here is my [CV](./CV-SZ.pdf)
 
 ### Project 5: _Customers Churn analysis for Orange_ 📊
 <p align="justify"> 
-<strong>Description</strong> : With so many telecom operators in the market, it is not easy to keep up with competitors in the sector or to understand what makes consumers leave for the competition. So, the telecommunications sector is subject to a high churn rate that needs to be analysed. What are the factors of churn in the telecommunications sector, and in particular at Orange? What actions can be taken to reduce it?
+<strong>Description</strong> : With numerous telecom operators in the market, it is challenging to keep up with competitors or understand the factors that drive consumers to switch to other providers. As a result, the telecommunications sector experiences a high churn rate that requires thorough analysis. What are the factors of churn in the telecommunications sector, and in particular at Orange? What actions can be taken to reduce it?
 </p>
 
-<strong>Technologies</strong> : [R],[RShiny]
+<strong>Technologies</strong> : [Dataiku]
 
-<strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
-
-<strong>Script</strong> : [Lien vers le dépôt du projet]
+<strong>Demonstration</strong>  : [Slides](./Churn-customers-Orange-project.pdf)
 
 
 
