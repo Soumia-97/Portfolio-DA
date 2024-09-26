@@ -62,18 +62,14 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-
 ### Project 4:  _Chatbot for Skyscanner_ ✈️
 <p align="justify"> 
-<strong>Description</strong> : As members of the Netflix team of data scientists, we wanted to develop a new movie recommendation engine for our clients. Recommendation engines are widely used by market leaders to enhance user engagement and retention. By analyzing data from similar users, these systems provide personalized recommendations that align with users' preferences. When users receive content they enjoy, they tend to spend more time on the platform, which directly helps reduce customer churn. For instance, Netflix’s recommendation algorithms are a prime example, generating approximately $1 billion in value annually from customer retention efforts alone (2019).
+<strong>Description</strong> : Skyscanner is an online platform for comparing flights, hotels, and car rentals, enabling users to explore offers from over a thousand providers to find the cheapest, shortest, or most eco-friendly flights. Users can also identify the most affordable month or day to travel and set up price alerts to book at the best time. Our goal is to implement a user-friendly interface and an efficient chatbot that assists users in navigating the website, providing accurate and helpful answers to enhance their experience.
 </p>
 
-<strong>Technologies</strong> : [R],[RShiny]
+<strong>Technologies</strong> : [Python],[Octoparse],[Streamlit]
 
-<strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
-
-<strong>Script</strong> : [Lien vers le dépôt du projet]
-
+<strong>Demonstration</strong>  : [Slides](./Chatbot-groupe1.pdf)
 
 
 
