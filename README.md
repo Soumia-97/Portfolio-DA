@@ -49,7 +49,7 @@ Here is my [CV](./CV-SZ.pdf)
 <strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
 
 
-### Project 3:  _Study case : The real estate french market_🏡
+### Project 3:  _Study case_ : _The real estate french market_🏡
 <p align="justify"> 
 <strong>Description</strong> : As members of the Netflix team of data scientists, we wanted to develop a new movie recommendation engine for our clients. Recommendation engines are widely used by market leaders to enhance user engagement and retention. By analyzing data from similar users, these systems provide personalized recommendations that align with users' preferences. When users receive content they enjoy, they tend to spend more time on the platform, which directly helps reduce customer churn. For instance, Netflix’s recommendation algorithms are a prime example, generating approximately $1 billion in value annually from customer retention efforts alone (2019).
 </p>
