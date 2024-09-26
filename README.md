@@ -10,9 +10,7 @@ Welcome on my portfolio ! Here you'll find a collection of my most recent work o
 
 Throughout my studies, I developed a keen ability to work with complex data, identify trends, and solve strategic problems using AI. In addition to my technical skills, I have gained a solid understanding of business challenges, allowing me to bridge the gap between data science and concrete business objectives.
 
----
 
-This version keeps your tone professional and highlights your key strengths in AI and business analytics.
 ## 📚 Projects
 
 ### Project 1: ** Time Seriess **
