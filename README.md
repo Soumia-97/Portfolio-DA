@@ -27,7 +27,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 ## 📚 Projects
 
-### Project 1: ** Netflix recommendation system **
+### Project 1: _Netflix recommendation system_ 
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Python], [JavaScript], [HTML/CSS] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -35,7 +35,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 2: ** Gamers recommendation system **
+### Project 2: _Gamers recommendation system_
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [React], [Node.js], [MongoDB] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -43,7 +43,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 3: ** Study case : The real estate french market **
+### Project 3: ** Study case : _The real estate french market_
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -51,7 +51,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 4: ** Study case : The real estate french market **
+### Project 4: ** Study case : _Chatbot for Skyscanner_
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -59,7 +59,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 5: ** Study case : The real estate french market **
+### Project 5: ** Study case : _Customers Churn analysis for Orange_
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -67,7 +67,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 6: ** Study case : The real estate french market **
+### Project 6: ** Study case : _Time series_
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
