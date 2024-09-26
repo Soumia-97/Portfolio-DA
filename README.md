@@ -76,7 +76,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [Dataiku]
 
-<strong>Demonstration</strong>  : [Slides](./Churn-customers-Orange-project.pdf)
+<strong>Demonstration</strong>  : [Slides](./Orange-PROJECT.pdf)
 
 
 
@@ -87,9 +87,8 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [R]
 
-<strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
+<strong>Demonstration</strong>  : [Slides](./Time-series-Atlanta.pdf)
 
-<strong>Script</strong> : [Lien vers le dépôt du projet]
 
 
 
