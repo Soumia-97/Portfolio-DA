@@ -92,12 +92,11 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-## 🛠️ Compétences
+## 🛠️ Skills
 
-- Programmation : Python, JavaScript, Java, C++
-- Frameworks : React, Django, Flask
-- Bases de données : MySQL, MongoDB, PostgreSQL
-- Autres outils : Git, Docker, Jenkins
+- Programming : Python, Streamlit, R, RShiny
+- Data visualization : Tableau Prep, Tableau, Looker, Dataiku
+- Data Management : SQL, NoSQL, BigQuery
 
 ## 📫 Contact
 
