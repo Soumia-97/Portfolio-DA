@@ -51,6 +51,30 @@ Here is my [CV](./CV-SZ.pdf)
 
 ---
 
+### Project 4: ** Study case : The real estate french market **
+- **Description** : Brève explication de ce projet et des technologies utilisées.
+- **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
+- **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
+- **Dépôt GitHub** : [Lien vers le dépôt du projet]
+
+---
+
+### Project 5: ** Study case : The real estate french market **
+- **Description** : Brève explication de ce projet et des technologies utilisées.
+- **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
+- **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
+- **Dépôt GitHub** : [Lien vers le dépôt du projet]
+
+---
+
+### Project 6: ** Study case : The real estate french market **
+- **Description** : Brève explication de ce projet et des technologies utilisées.
+- **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
+- **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
+- **Dépôt GitHub** : [Lien vers le dépôt du projet]
+
+---
+
 ## 🛠️ Compétences
 
 - Programmation : Python, JavaScript, Java, C++
