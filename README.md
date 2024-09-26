@@ -10,10 +10,6 @@ Throughout my studies, I developed a keen ability to work with complex data, ide
 
 Here is my [CV](./CV-SZ.pdf)
 
-## Mes Projets
-
-### Projet d'analyse de données
-Here is my [CV](./documents/rapport.pdf).
 
 ## 📚 Projects
 
