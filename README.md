@@ -46,7 +46,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [R],[RShiny]
 
-<strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
+<strong>Demonstration</strong>  : [Slides](./recommendation_system_for_gamers.pdf)
 
 
 ### Project 3:  *Study case: The real estate French market* 🏡
