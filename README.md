@@ -9,6 +9,12 @@ Welcome on my portfolio ! Here you'll find a collection of my most recent work o
 Throughout my studies, I developed a keen ability to work with complex data, identify trends, and solve strategic problems using AI. In addition to my technical skills, I have gained a solid understanding of business challenges, allowing me to bridge the gap between data science and concrete business objectives.
 
 Here is my [CV](//www.linkedin.com/in/soumia-zarkan-a0503b178) Here is my CV.
+
+## Mes Projets
+
+### Projet d'analyse de données
+Here is my [CV](./documents/rapport.pdf).
+
 ## 📚 Projects
 
 ### Project 1: ** Time Seriess **
