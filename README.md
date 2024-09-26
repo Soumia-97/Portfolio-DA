@@ -27,7 +27,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 ## 📚 Projects
 
-### Project 1:  _Netflix recommendation system_ 
+### Project 1:  _Netflix recommendation system_ 🎥
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Python], [JavaScript], [HTML/CSS] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -35,7 +35,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 2:  _Gamers recommendation system_
+### Project 2:  _Gamers recommendation system_ 🕹️
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [React], [Node.js], [MongoDB] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -43,7 +43,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 3:  _Study case : The real estate french market_
+### Project 3:  _Study case : The real estate french market_🏡
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -51,7 +51,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 4:  _Chatbot for Skyscanner_
+### Project 4:  _Chatbot for Skyscanner_ ✈️
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -59,7 +59,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 5: _Customers Churn analysis for Orange_
+### Project 5: _Customers Churn analysis for Orange_ 📊
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
@@ -67,7 +67,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 
 
-### Project 6:  _Time series_
+### Project 6:  _Time series_ 📉
 - **Description** : Brève explication de ce projet et des technologies utilisées.
 - **Technologies** : [Django], [PostgreSQL] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
