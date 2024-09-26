@@ -34,7 +34,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [R],[RShiny]
 
-<strong>Demonstration</strong>  : [Slides](./Netflix recommendation engine.pdf)
+<strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
 
 <strong>Script</strong> : [Lien vers le dépôt du projet]
 
