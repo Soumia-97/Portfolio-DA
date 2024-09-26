@@ -13,7 +13,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 # Table of Contents
 
-- About
+- Who am I
 
 - Portfolio Projects
   
@@ -22,7 +22,11 @@ Here is my [CV](./CV-SZ.pdf)
   - Study case : The real estate french market
   - Chatbot for Skyscanner
   - Customers Churn analysis for Orange
-  - Time series 
+  - Time series
+ 
+- Master Dissertation
+- Skills
+- Contact
 
 
 ## 📚 Projects
@@ -89,7 +93,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Demonstration</strong>  : [Slides](./Time-series-Atlanta.pdf)
 
-### MASTER DISSERTATION 
+### Master dissertation 
 
 In my master's dissertation, I explored the critical question of how to optimize the effectiveness of online advertising through precise segmentation of target audiences. With the rapid growth of digital marketing, understanding and reaching the right audience has become paramount for maximizing return on investment. My research focused on employing advanced data analytics techniques to identify which algorithm could be the most performant to have the best segmentations. 
 
