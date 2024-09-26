@@ -51,14 +51,12 @@ Here is my [CV](./CV-SZ.pdf)
 
 ### Project 3:  *Study case: The real estate French market* 🏡
 <p align="justify"> 
-<strong>Description</strong> : As members of the Netflix team of data scientists, we wanted to develop a new movie recommendation engine for our clients. Recommendation engines are widely used by market leaders to enhance user engagement and retention. By analyzing data from similar users, these systems provide personalized recommendations that align with users' preferences. When users receive content they enjoy, they tend to spend more time on the platform, which directly helps reduce customer churn. For instance, Netflix’s recommendation algorithms are a prime example, generating approximately $1 billion in value annually from customer retention efforts alone (2019).
+<strong>Description</strong> : This is a study of the real estate market dataset, in France. We will present the changes of the real estate market between 2015 and 2019. Our purpose is to help Immo-Inv to build robust models to predict future prices fluctuations or to estimate the price value of a property.
 </p>
 
-<strong>Technologies</strong> : [R],[RShiny]
+<strong>Technologies</strong> : [Tableau],[Tableau prep]
 
 <strong>Demonstration</strong>  : [Dashboard](//public.tableau.com/app/profile/soumia.zarkan/viz/real_estate_project_zarkan_knouzi_dafrane/Story1)
-<strong>Script</strong> : [Lien vers le dépôt du projet]
-
 
 
 ### Project 4:  _Chatbot for Skyscanner_ ✈️
@@ -71,10 +69,9 @@ Here is my [CV](./CV-SZ.pdf)
 <strong>Demonstration</strong>  : [Slides](./Chatbot-groupe1.pdf)
 
 
-
 ### Project 5: _Customers Churn analysis for Orange_ 📊
 <p align="justify"> 
-<strong>Description</strong> : As members of the Netflix team of data scientists, we wanted to develop a new movie recommendation engine for our clients. Recommendation engines are widely used by market leaders to enhance user engagement and retention. By analyzing data from similar users, these systems provide personalized recommendations that align with users' preferences. When users receive content they enjoy, they tend to spend more time on the platform, which directly helps reduce customer churn. For instance, Netflix’s recommendation algorithms are a prime example, generating approximately $1 billion in value annually from customer retention efforts alone (2019).
+<strong>Description</strong> : With so many telecom operators in the market, it is not easy to keep up with competitors in the sector or to understand what makes consumers leave for the competition. So, the telecommunications sector is subject to a high churn rate that needs to be analysed. What are the factors of churn in the telecommunications sector, and in particular at Orange? What actions can be taken to reduce it?
 </p>
 
 <strong>Technologies</strong> : [R],[RShiny]
