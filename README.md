@@ -44,7 +44,7 @@ Here is my [CV](./CV-SZ.pdf)
 <strong>Description</strong> : We were are tasked with addressing a new challenge: creating a recommendation system designed to encourage customers to purchase games that align with their preferences. This system will be built upon identifying similar games to those already chosen by users, enabling them to discover and buy games that truly match their interests and needs.
 </p>
 
-<strong>Technologies</strong> : [Python],[Pyspark]
+<strong>Technologies</strong> : [Python],[PySpark],[Google Colab]
 
 <strong>Demonstration</strong>  : [Slides](./recommendation_system_for_gamers.pdf)
 
