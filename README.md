@@ -8,7 +8,7 @@ Welcome on my portfolio ! Here you'll find a collection of my most recent work o
 
 Throughout my studies, I developed a keen ability to work with complex data, identify trends, and solve strategic problems using AI. In addition to my technical skills, I have gained a solid understanding of business challenges, allowing me to bridge the gap between data science and concrete business objectives.
 
-Here is my [CV](./files/CV-SZ.pdf)
+Here is my [CV](./CV-SZ.pdf)
 
 ## Mes Projets
 
