@@ -39,5 +39,5 @@ Welcome on my portfolio ! Here you'll find a collection of my most recent work o
 
 ## 📫 Contact
 
-- [Mon LinkedIn](https://www.linkedin.com/)
+- [Mon LinkedIn](//www.linkedin.com/in/soumia-zarkan-a0503b178)
 - [Mon Portfolio](https://www.portfolio.com)
