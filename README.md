@@ -28,12 +28,13 @@ Here is my [CV](./CV-SZ.pdf)
 ## 📚 Projects
 
 ### Project 1:  _Netflix recommendation system_ 🎥
-<p align="justify">
-- **Description** : As members of the Netflix team of data scientists, we wanted to develop a new movie recommendation engine for our clients. Recommendation engines are widely used by market leaders to enhance user engagement and retention. By analyzing data from similar users, these systems provide personalized recommendations that align with users' preferences. When users receive content they enjoy, they tend to spend more time on the platform, which directly helps reduce customer churn. For instance, Netflix’s recommendation algorithms are a prime example, generating approximately $1 billion in value annually from customer retention efforts alone (2019).
+
+- **Description** : <p align="justify"> As members of the Netflix team of data scientists, we wanted to develop a new movie recommendation engine for our clients. Recommendation engines are widely used by market leaders to enhance user engagement and retention. By analyzing data from similar users, these systems provide personalized recommendations that align with users' preferences. When users receive content they enjoy, they tend to spend more time on the platform, which directly helps reduce customer churn. For instance, Netflix’s recommendation algorithms are a prime example, generating approximately $1 billion in value annually from customer retention efforts alone (2019).
+</p>
 - **Technologies** : [Python], [JavaScript], [HTML/CSS] (liste des technologies que tu as utilisées).
 - **Démonstration** : [Lien vers la démo en ligne ou une capture d'écran]
 - **Dépôt GitHub** : [Lien vers le dépôt du projet]
-</p>
+
 
 
 ### Project 2:  _Gamers recommendation system_ 🕹️
