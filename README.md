@@ -40,8 +40,6 @@ Here is my [CV](./01_CV-SZ.pdf)
 
 <strong>Demonstration</strong>  : [Slides](./02_Netflix-recommendation-engine.pdf)
 
-<strong>Script</strong> : [Lien vers le dépôt du projet]
-
 
 ### Project 2:  _Gamers recommendation system_ 🕹️
 <p align="justify"> 
