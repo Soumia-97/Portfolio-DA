@@ -8,7 +8,7 @@ Welcome on my portfolio ! Here you'll find a collection of my most recent work o
 
 Throughout my studies, I developed a keen ability to work with complex data, identify trends, and solve strategic problems using AI. In addition to my technical skills, I have gained a solid understanding of business challenges, allowing me to bridge the gap between data science and concrete business objectives.
 
-Here is my [CV](./CV-SZ.pdf)
+Here is my [CV](./01_CV-SZ.pdf)
 
 
 # Table of Contents
@@ -38,7 +38,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [R],[RShiny]
 
-<strong>Demonstration</strong>  : [Slides](./Netflix-recommendation-engine.pdf)
+<strong>Demonstration</strong>  : [Slides](./02_Netflix-recommendation-engine.pdf)
 
 <strong>Script</strong> : [Lien vers le dépôt du projet]
 
@@ -50,7 +50,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [Python],[PySpark],[Google Colab]
 
-<strong>Demonstration</strong>  : [Slides](./recommendation_system_for_gamers.pdf)
+<strong>Demonstration</strong>  : [Slides](./03_recommendation_system_for_gamers.pdf)
 
 
 ### Project 3:  *Study case: The real estate French market* 🏡
@@ -70,7 +70,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [Python],[Octoparse],[Streamlit]
 
-<strong>Demonstration</strong>  : [Slides](./Chatbot-groupe1.pdf)
+<strong>Demonstration</strong>  : [Slides](./04_Chatbot-groupe1.pdf)
 
 
 ### Project 5: _Customers Churn analysis for Orange_ 📊
@@ -80,7 +80,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [Dataiku]
 
-<strong>Demonstration</strong>  : [Slides](./Orange-PROJECT.pdf)
+<strong>Demonstration</strong>  : [Slides](./05_Orange-PROJECT.pdf)
 
 
 
@@ -91,7 +91,7 @@ Here is my [CV](./CV-SZ.pdf)
 
 <strong>Technologies</strong> : [R]
 
-<strong>Demonstration</strong>  : [Slides](./Time-series-Atlanta.pdf)
+<strong>Demonstration</strong>  : [Slides](./06_Time-series-Atlanta.pdf)
 
 ### Master dissertation 
 
