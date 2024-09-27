@@ -91,7 +91,7 @@ Here is my [CV](./01_CV-SZ.pdf)
 
 <strong>Demonstration</strong>  : [Slides](./06_Time-series-Atlanta.pdf)
 
-### Master dissertation 
+### Master dissertation 📝
 
 In my master's dissertation, I explored the critical question of how to optimize the effectiveness of online advertising through precise segmentation of target audiences. With the rapid growth of digital marketing, understanding and reaching the right audience has become paramount for maximizing return on investment. My research focused on finding which algorithm could be the most performant to have the best segmentations. 
 
