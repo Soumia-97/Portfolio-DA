@@ -52,7 +52,7 @@ Throughout my studies, I developed a keen ability to work with complex data, ide
 
 ### Project 3:  *Study case: The real estate French market* 🏡
 <p align="justify"> 
-<strong>Description</strong> : This is a study of the real estate market dataset, in France. We will present the changes of the real estate market between 2015 and 2019. Our purpose is to help Immo-Inv to build robust models to predict future prices fluctuations or to estimate the price value of a property.
+<strong>Description</strong> : This project analyzes a dataset on the French real estate market. We present the market's evolution between 2015 and 2019. The goal is to help Immo-Inv build robust models to predict future price fluctuations and estimate property values.
 </p>
 
 <strong>Technologies</strong> : [Tableau],[Tableau prep]
