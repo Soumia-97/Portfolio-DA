@@ -18,7 +18,7 @@ Throughout my studies, I developed a keen ability to work with complex data, ide
   
   - Netflix recommendation system 
   - Gamers recommendation system
-  - Study case : The real estate french market
+  - Study case : The French real estate market
   - Chatbot for Skyscanner
   - Customers Churn analysis for Orange
   - Time series
@@ -50,7 +50,7 @@ Throughout my studies, I developed a keen ability to work with complex data, ide
 <strong>Demonstration</strong>  : [Slides](./03_recommendation_system_for_gamers.pdf)
 
 
-### Project 3:  *Study case: The real estate French market* 🏡
+### Project 3:  *Study case: The French real estate market* 🏡
 <p align="justify"> 
 <strong>Description</strong> : This project analyzes a dataset on the French real estate market. We present the market's evolution between 2015 and 2019. The goal is to help Immo-Inv build robust models to predict future price fluctuations and estimate property values.
 </p>
