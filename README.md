@@ -1,4 +1,4 @@
-# Soumia Zarkan - Business Analyst Portfolio 
+# Soumia Zarkan - Data Analyst Portfolio 
 
 Welcome on my portfolio ! Here you'll find a collection of my most recent work on data analytics.
 
